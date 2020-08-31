@@ -3,7 +3,7 @@
 {{ if eq .Site.Params.layout "1" }}
 <!-- featured post -->
 <section class="overflow-hidden">
-  <div class="container-fluid p-sm-0">
+  <a href="{{ .Permalink }}"><div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "featured")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
@@ -20,7 +20,7 @@
       </div>
       {{ end }}
     </div>
-  </div>
+  </div></a>
 </section>
 <!-- /featured post -->
 
