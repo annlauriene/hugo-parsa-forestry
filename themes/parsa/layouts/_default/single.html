@@ -27,6 +27,7 @@
           Distance {{.Params.stats.distance}}<br>
           Elevation {{.Params.stats.elevation_gain}}<br>
           {{.Content}}
+          <iframe src="{{.Params.map}}" width="640" height="480"></iframe>
         </article>
       </div>
       {{partial "sidebar.html" . }}
