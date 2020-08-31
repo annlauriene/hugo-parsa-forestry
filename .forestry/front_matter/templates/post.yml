@@ -8,24 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
-- type: text
-  name: description
-  label: description
-- type: list
-  name: categories
-  label: categories
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
-- type: text
-  name: type
-  label: type
-  default: post
-  description: 'type: post or featured'
 - name: stats
   type: field_group
   config: {}
@@ -52,5 +34,23 @@ fields:
       step: 
   label: Stats
   description: Hiking stats
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- type: text
+  name: type
+  label: type
+  default: post
+  description: 'type: post or featured'
 pages:
 - content/my-first-post.md
