@@ -3,6 +3,7 @@ categories = ["Hiking"]
 date = 2020-08-30T22:00:00Z
 description = "TESTSTESTE"
 image = "/images/banner-img.png"
+map = "https://www.google.com/maps/d/u/0/embed?mid=1YQ7pkYdRwVR0jP9TOVbIYz3zIhMYEGRf"
 stats2 = 123
 tags = ["camping"]
 title = "My first post"
