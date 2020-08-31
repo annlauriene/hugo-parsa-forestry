@@ -9,6 +9,9 @@ type = "post"
 [menu.main]
 name = "Test"
 weight = 3
+[stats]
+distance = 10
+elevation_gain = 123
 
 +++
 Hello
