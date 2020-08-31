@@ -3,11 +3,11 @@
 {{ if eq .Site.Params.layout "1" }}
 <!-- featured post -->
 <section class="overflow-hidden">
-  <a href="{{ .Permalink }}"><div class="container-fluid p-sm-0">
+  <div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "featured")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-        <article class="card bg-dark text-center text-white border-0 rounded-0">
+        <a href="{{ .Permalink }}"><article class="card bg-dark text-center text-white border-0 rounded-0">
           <a href="{{ .Permalink }}"><img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb"></a>
           <div class="card-img-overlay">
             <div class="card-content">
@@ -16,11 +16,11 @@
               <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
             </div>
           </div>
-        </article>
+        </article></a>
       </div>
       {{ end }}
     </div>
-  </div></a>
+  </div>
 </section>
 <!-- /featured post -->
 
