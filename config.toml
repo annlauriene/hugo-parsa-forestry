@@ -1,9 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
-paginate = 6
+paginate = "8"
 summaryLength = "10"
 theme = "parsa"
-title = "Hugo Parsa Forestry Starter"
+title = "RunHikeRepeat"
 [[menu.main]]
 URL = "about"
 name = "About"
