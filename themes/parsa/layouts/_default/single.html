@@ -23,7 +23,11 @@
         </ul>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          Post by {{.Site.Params.stats2}}
+          Post by1 {{.Site.Params.Stats2}}
+          Post by2 {{.Params.stats2}}
+          Post by3 {{.Params.stats}}
+          Post by4 {{.stats}}
+
           {{.Content}}
         </article>
       </div>
