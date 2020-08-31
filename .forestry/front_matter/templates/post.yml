@@ -62,5 +62,11 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: map
+  type: text
+  config:
+    required: false
+  label: map
+  description: map link
 pages:
 - content/my-first-post.md
