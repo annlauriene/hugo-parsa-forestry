@@ -7,7 +7,7 @@ title = "RunHikeRepeat"
 [[menu.main]]
 name = "Hikiing"
 parent = "Test"
-url = "annlauriene.vercel.app/categories/hiking"
+url = "categories/hiking"
 weight = 1
 [[menu.main]]
 URL = "contact"
