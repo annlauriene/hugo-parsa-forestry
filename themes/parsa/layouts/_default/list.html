@@ -23,7 +23,7 @@
           {{ range $paginator.Pages }}
           <div class="col-sm-6 mb-5">
             <article class="text-center">
-              <a href="{{.Permalink}}"><img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb"></a>
+              <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb" href="{{.Permalink}}>
               <p class="text-uppercase mb-2">{{ .Params.Categories }}</p>
               <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
               <p>{{ .Summary }}</p>
@@ -41,7 +41,7 @@
             <article data-file="{{.Permalink}}" data-target="article"
               class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
               <div class="post-image">
-                <a href="{{.Permalink}}"><img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="post-thumb"></a>
+                <img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="post-thumb">
               </div>
               <div class="post-content">
                 <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">
