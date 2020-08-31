@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-paginate = "8"
+paginate = "20"
 summaryLength = "10"
 theme = "parsa"
 title = "RunHikeRepeat"
