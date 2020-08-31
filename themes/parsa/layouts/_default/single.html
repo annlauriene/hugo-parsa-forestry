@@ -23,9 +23,9 @@
         </ul>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          Post byq {{.Site.Params.Stats2}}
-          Post byw {{.Params.stats2}}
-          Post bye {{.Params.stats}}
+          Post byw {{.Params.stats2}}<br>
+          Distance {{.Params.stats.distance}}<br>
+          Elevation {{.Params.stats.elevation_gain}}<br>
           {{.Content}}
         </article>
       </div>
