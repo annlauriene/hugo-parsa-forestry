@@ -5,13 +5,18 @@ summaryLength = "10"
 theme = "parsa"
 title = "RunHikeRepeat"
 [[menu.main]]
+name = "Hikiing"
+parent = "Test"
+url = "annlauriene.vercel.app/categories/hiking"
+weight = 1
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
