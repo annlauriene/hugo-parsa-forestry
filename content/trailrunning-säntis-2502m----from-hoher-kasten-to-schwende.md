@@ -2,6 +2,7 @@
 title = "Trailrunning Säntis (2'502m) -  From Hoher Kasten to Schwende"
 date = 2018-08-12T13:09:00Z
 updated = 2020-04-06T17:02:45Z
+type = "post"
 tags = ["switzerland", "säntis", "trailrunning", "summer"]
 blogimport = true 
 [author]

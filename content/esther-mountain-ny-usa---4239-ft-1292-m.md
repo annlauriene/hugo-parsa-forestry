@@ -2,6 +2,7 @@
 title = "Esther Mountain (NY, USA) - 4,239 ft (1,292 m) "
 date = 2015-11-16T00:30:00Z
 updated = 2019-09-14T11:59:53Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA", "Hiking"]
 blogimport = true 
 [author]

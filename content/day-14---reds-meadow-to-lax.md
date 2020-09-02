@@ -2,6 +2,7 @@
 title = "DAY 14 - Red’s Meadow to LAX"
 date = 2017-05-10T00:20:00Z
 updated = 2017-06-12T21:41:35Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

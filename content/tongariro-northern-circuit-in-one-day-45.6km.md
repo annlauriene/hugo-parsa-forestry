@@ -2,6 +2,7 @@
 title = "Tongariro Northern Circuit in one day (45.6km)"
 date = 2020-01-03T16:56:00Z
 updated = 2020-04-06T16:58:12Z
+type = "post"
 tags = ["newzealand", "trailrunning", "Great Walk", "Hiking"]
 blogimport = true 
 [author]

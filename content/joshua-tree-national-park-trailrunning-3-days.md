@@ -2,6 +2,7 @@
 title = "Joshua Tree National Park Trailrunning (3 days)"
 date = 2019-04-21T10:16:00Z
 updated = 2020-04-06T17:00:23Z
+type = "post"
 tags = ["joshua tree national park", "NP", "desert", "USA", "trailrunning", "Hiking", "camping", "summer", "California"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "DAY 13 - Duck Lake to Red’s Meadow"
 date = 2017-05-10T00:21:00Z
 updated = 2019-09-14T11:49:49Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

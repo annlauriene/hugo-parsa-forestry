@@ -2,6 +2,7 @@
 title = "5-Lake Trailrun"
 date = 2019-10-12T10:08:00Z
 updated = 2020-04-06T16:58:29Z
+type = "post"
 tags = ["switzerland", "trailrunning", "Hiking"]
 blogimport = true 
 [author]

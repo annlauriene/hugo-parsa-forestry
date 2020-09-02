@@ -2,6 +2,7 @@
 title = "Trailrunning from Pany to Rätschenhorn (2'703m) and back"
 date = 2019-10-26T08:46:00Z
 updated = 2020-04-07T09:45:28Z
+type = "post"
 tags = ["Graubünden", "switzerland", "pany", "Rätschenhorn", "trailrunning", "summer"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "Mount Taranaki (New Zealand, 2'518m)"
 date = 2020-01-05T13:36:00Z
 updated = 2020-04-08T14:23:28Z
+type = "post"
 tags = ["Mount taranaki", "volcano", "new zealand", "Hiking", "summer"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "DAY 8 - Little Petes Meadow to Darwin Bench"
 date = 2017-05-10T00:26:00Z
 updated = 2019-09-14T11:46:43Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

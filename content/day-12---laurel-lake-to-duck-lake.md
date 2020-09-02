@@ -2,6 +2,7 @@
 title = "DAY 12 - Laurel Lake to Duck Lake "
 date = 2017-05-10T00:22:00Z
 updated = 2019-09-14T11:51:08Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

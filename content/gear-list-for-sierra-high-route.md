@@ -2,6 +2,7 @@
 title = "Gear List for Sierra High Route"
 date = 2017-05-10T00:35:00Z
 updated = 2017-05-10T01:04:29Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

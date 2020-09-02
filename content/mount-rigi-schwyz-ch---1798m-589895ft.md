@@ -2,6 +2,7 @@
 title = "Mount Rigi (Schwyz, CH) - 1,798m (5898,95ft)"
 date = 2018-05-12T14:35:00Z
 updated = 2020-04-06T17:13:31Z
+type = "post"
 tags = ["rigi", "switzerland", "swiss", "mountain", "summer"]
 blogimport = true 
 [author]

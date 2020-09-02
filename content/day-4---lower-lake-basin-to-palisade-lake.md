@@ -2,6 +2,7 @@
 title = "DAY 4 - Lower Lake Basin to Palisade Lake"
 date = 2017-05-10T00:30:00Z
 updated = 2019-09-14T11:43:08Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

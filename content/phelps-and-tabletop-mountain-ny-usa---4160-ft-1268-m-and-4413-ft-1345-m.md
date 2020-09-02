@@ -2,6 +2,7 @@
 title = "Phelps and Tabletop Mountain (NY, USA) - 4,160 ft (1,268 m) and 4,413 ft (1,345 m)"
 date = 2016-01-20T04:48:00Z
 updated = 2020-04-09T10:18:48Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "Snowshoeing", "USA", "Hiking"]
 blogimport = true 
 [author]

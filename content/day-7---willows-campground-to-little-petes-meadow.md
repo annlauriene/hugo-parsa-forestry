@@ -2,6 +2,7 @@
 title = "DAY 7 - Willows Campground to Little Petes Meadow"
 date = 2017-05-10T00:27:00Z
 updated = 2019-09-14T11:46:07Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

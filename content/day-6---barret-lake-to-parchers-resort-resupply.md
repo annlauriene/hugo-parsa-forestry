@@ -2,6 +2,7 @@
 title = "DAY 6 - Barret Lake to Parcher’s Resort (Resupply)"
 date = 2017-05-10T00:28:00Z
 updated = 2019-09-14T11:44:45Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

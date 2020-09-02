@@ -2,6 +2,7 @@
 title = "DAY 11 - Lake Italy to Laurel Lake"
 date = 2017-05-10T00:23:00Z
 updated = 2019-09-14T11:48:55Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

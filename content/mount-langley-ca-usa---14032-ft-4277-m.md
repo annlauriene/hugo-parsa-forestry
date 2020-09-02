@@ -2,6 +2,7 @@
 title = "Mount Langley (CA, USA) - 14,032 ft (4,277 m)"
 date = 2013-09-04T04:53:00Z
 updated = 2020-04-06T17:06:55Z
+type = "post"
 tags = ["4000er", "USA", "Hiking", "California"]
 blogimport = true 
 [author]

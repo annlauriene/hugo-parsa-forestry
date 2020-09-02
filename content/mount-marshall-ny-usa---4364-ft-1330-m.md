@@ -2,6 +2,7 @@
 title = "Mount Marshall (NY, USA) - 4,364 ft (1,330 m)"
 date = 2015-10-05T04:29:00Z
 updated = 2019-09-14T12:00:49Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "Seward, Donaldson, Emmons & Seymour (NY,USA) - 4 more 46er peaks"
 date = 2016-07-04T07:00:00Z
 updated = 2020-04-06T17:13:08Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA", "Hiking"]
 blogimport = true 
 [author]

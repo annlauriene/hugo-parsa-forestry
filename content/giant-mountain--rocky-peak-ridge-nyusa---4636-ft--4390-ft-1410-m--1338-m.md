@@ -2,6 +2,7 @@
 title = "Giant Mountain & Rocky Peak Ridge (NY,USA) - 4,636 ft & 4,390 ft (1,410 m & 1,338 m)"
 date = 2016-02-01T02:58:00Z
 updated = 2019-09-14T11:58:31Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "Snowshoeing", "USA"]
 blogimport = true 
 [author]

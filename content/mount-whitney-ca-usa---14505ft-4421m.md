@@ -2,6 +2,7 @@
 title = "Mount Whitney (CA, USA) - 14,505ft (4,421m)"
 date = 2013-09-06T05:00:00Z
 updated = 2020-04-06T17:07:49Z
+type = "post"
 tags = ["Mount Whitney", "4000er", "USA", "Hiking", "California"]
 blogimport = true 
 [author]

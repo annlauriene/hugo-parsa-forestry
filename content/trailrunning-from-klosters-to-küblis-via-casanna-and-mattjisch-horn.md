@@ -2,6 +2,7 @@
 title = "Trailrunning from Klosters to Küblis via Casanna and Mattjisch Horn"
 date = 2020-07-19T14:55:00Z
 updated = 2020-07-29T14:35:18Z
+type = "post"
 tags = ["casanna"]
 blogimport = true 
 [author]

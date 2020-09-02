@@ -2,6 +2,7 @@
 title = "Mac Lehose Trail - Day 3 - Section 4/5"
 date = 2016-11-14T18:15:00Z
 updated = 2019-09-14T11:54:25Z
+type = "post"
 tags = ["hong kong", "asia", "maclehose", "Hiking", "camping"]
 blogimport = true 
 [author]

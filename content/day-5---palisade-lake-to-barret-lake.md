@@ -2,6 +2,7 @@
 title = "DAY 5 - Palisade Lake to Barret Lake"
 date = 2017-05-10T00:29:00Z
 updated = 2019-09-14T11:43:49Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "Colvin, Blake, Nippletop and Dial (NY,USA)  - 4 more 46er peaks"
 date = 2015-09-21T05:41:00Z
 updated = 2019-09-14T12:02:52Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA", "Hiking"]
 blogimport = true 
 [author]

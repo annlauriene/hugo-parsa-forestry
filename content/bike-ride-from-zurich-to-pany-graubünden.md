@@ -2,6 +2,7 @@
 title = "Bike ride from Zurich to Pany (Graubünden)"
 date = 2020-03-28T09:22:00Z
 updated = 2020-04-07T12:41:36Z
+type = "post"
 tags = ["switzerland", "pany", "zurich", "biking"]
 blogimport = true 
 [author]

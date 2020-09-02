@@ -2,6 +2,7 @@
 title = "DAY 10 - Puppet Lake to Lake Italy"
 date = 2017-05-10T00:24:00Z
 updated = 2019-09-14T11:48:19Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

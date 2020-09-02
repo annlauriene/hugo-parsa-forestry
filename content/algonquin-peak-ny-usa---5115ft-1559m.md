@@ -2,6 +2,7 @@
 title = "Algonquin Peak (NY, USA) - 5,115ft (1,559m)"
 date = 2013-10-22T02:56:00Z
 updated = 2013-11-02T21:15:08Z
+type = "post"
 tags = ["Adirondacks", "46ers", "USA", "Hiking"]
 blogimport = true 
 [author]

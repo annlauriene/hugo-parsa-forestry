@@ -2,6 +2,7 @@
 title = "Big Slide Mountain (NY, USA) - 4,199 ft (1,280 m)"
 date = 2015-09-28T04:51:00Z
 updated = 2019-09-14T12:02:58Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA", "Hiking"]
 blogimport = true 
 [author]

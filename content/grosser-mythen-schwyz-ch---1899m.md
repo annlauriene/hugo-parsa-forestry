@@ -2,6 +2,7 @@
 title = "Grosser Mythen (Schwyz, CH) - 1899m"
 date = 2018-06-03T13:50:00Z
 updated = 2020-04-06T17:03:25Z
+type = "post"
 tags = ["grosser mythen", "switzerland", "Hiking", "summer"]
 blogimport = true 
 [author]

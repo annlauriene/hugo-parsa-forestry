@@ -2,6 +2,7 @@
 title = "The MacLehose Trail - 100km through Hong Kong"
 date = 2016-11-14T18:30:00Z
 updated = 2020-04-06T17:05:49Z
+type = "post"
 tags = ["hong kong", "maclehose", "Hiking", "camping", "summer"]
 blogimport = true 
 [author]

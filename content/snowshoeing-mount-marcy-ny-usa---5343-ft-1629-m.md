@@ -2,6 +2,7 @@
 title = "Snowshoeing Mount Marcy (NY, USA) - 5,343 ft (1,629 m)"
 date = 2015-03-31T04:43:00Z
 updated = 2019-09-14T12:02:37Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "Snowshoeing", "Mount Marcy"]
 blogimport = true 
 [author]

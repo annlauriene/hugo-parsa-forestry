@@ -2,6 +2,7 @@
 title = "The entire Kepler Track in one day (71,9km)"
 date = 2016-12-17T16:31:00Z
 updated = 2020-04-06T17:04:46Z
+type = "post"
 tags = ["Kepler", "newzealand", "NZ", "trailrunning", "Great Walk", "Hiking", "running"]
 blogimport = true 
 [author]

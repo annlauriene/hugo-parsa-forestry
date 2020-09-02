@@ -2,6 +2,7 @@
 title = "Cascade and Porter Mountain (NY, USA) - 4,098ft (1,249m) and 4,059ft (1,237m)"
 date = 2015-08-11T04:01:00Z
 updated = 2015-08-11T04:01:09Z
+type = "post"
 tags = ["Adirondacks", "46ers", "Cascade", "Porter", "Hiking"]
 draft = true
 blogimport = true 

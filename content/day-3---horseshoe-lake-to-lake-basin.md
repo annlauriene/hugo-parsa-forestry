@@ -2,6 +2,7 @@
 title = "Day 3 - Horseshoe Lake to Lake Basin"
 date = 2017-05-10T00:31:00Z
 updated = 2019-09-14T11:42:26Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

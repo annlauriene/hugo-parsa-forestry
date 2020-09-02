@@ -2,6 +2,7 @@
 title = "DAY 9 - Darwin Bench to Puppet Lake"
 date = 2017-05-10T00:25:00Z
 updated = 2019-09-14T11:47:31Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

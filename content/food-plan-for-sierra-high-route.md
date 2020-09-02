@@ -2,6 +2,7 @@
 title = "Food Plan for Sierra High Route"
 date = 2017-05-10T00:35:00Z
 updated = 2020-04-06T17:04:27Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

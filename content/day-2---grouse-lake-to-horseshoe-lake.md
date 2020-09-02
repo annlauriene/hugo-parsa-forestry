@@ -2,6 +2,7 @@
 title = "DAY 2 - Grouse Lake to Horseshoe Lake"
 date = 2017-05-10T00:32:00Z
 updated = 2019-09-14T11:41:43Z
+type = "post"
 tags = ["SHR"]
 blogimport = true 
 [author]

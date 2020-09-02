@@ -2,6 +2,7 @@
 title = "Trailrunning Diethelm / Fluebrig (2'098m)"
 date = 2019-08-18T09:30:00Z
 updated = 2020-04-06T17:23:55Z
+type = "post"
 tags = ["switzerland", "mountain", "diethelm", "trailrunning", "Hiking", "fluebrig", "summer"]
 blogimport = true 
 [author]

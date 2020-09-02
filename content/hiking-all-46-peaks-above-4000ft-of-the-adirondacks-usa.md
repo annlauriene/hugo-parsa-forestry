@@ -2,6 +2,7 @@
 title = "Hiking all 46 peaks above 4000ft of the Adirondacks, USA"
 date = 2016-07-07T01:24:00Z
 updated = 2020-04-06T17:14:47Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA"]
 blogimport = true 
 [author]

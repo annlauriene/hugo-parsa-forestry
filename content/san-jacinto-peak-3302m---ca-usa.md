@@ -2,6 +2,7 @@
 title = "San Jacinto Peak (3'302m - CA, USA)"
 date = 2019-04-20T09:29:00Z
 updated = 2020-04-06T17:01:56Z
+type = "post"
 tags = ["USA", "san jacinto mountain", "trailrunning", "Hiking", "camping", "snow", "summer", "California"]
 blogimport = true 
 [author]

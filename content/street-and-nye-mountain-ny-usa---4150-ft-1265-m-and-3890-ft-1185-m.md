@@ -2,6 +2,7 @@
 title = "Street and Nye Mountain (NY, USA) - 4,150 ft (1,265 m) and 3,890 ft (1,185 m)"
 date = 2015-09-20T04:12:00Z
 updated = 2019-09-14T12:02:45Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "Day 1 - From Road's End to Grouse Lake"
 date = 2017-05-10T00:33:00Z
 updated = 2019-09-14T11:40:55Z
+type = "post"
 tags = ["Sierra High Route", "SHR", "USA", "California"]
 blogimport = true 
 [author]

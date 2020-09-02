@@ -2,6 +2,7 @@
 title = "100km Run - From Zurich to Basel"
 date = 2019-09-07T15:00:00Z
 updated = 2020-04-06T16:59:14Z
+type = "post"
 tags = ["switzerland", "basel", "100km", "zurich", "running"]
 blogimport = true 
 [author]

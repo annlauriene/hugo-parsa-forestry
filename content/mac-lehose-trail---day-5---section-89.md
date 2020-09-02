@@ -2,6 +2,7 @@
 title = "Mac Lehose Trail - Day 5 - Section 8/9"
 date = 2016-11-14T18:05:00Z
 updated = 2019-09-14T11:55:44Z
+type = "post"
 tags = ["hong kong", "asia", "maclehose", "Hiking", "camping"]
 blogimport = true 
 [author]

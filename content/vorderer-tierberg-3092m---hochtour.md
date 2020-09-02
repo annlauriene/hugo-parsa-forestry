@@ -2,6 +2,7 @@
 title = "Vorderer Tierberg (3'092m) - Hochtour"
 date = 2018-07-08T13:25:00Z
 updated = 2020-04-03T09:00:25Z
+type = "post"
 tags = ["tierberg", "switzerland", "hochtour", "mountaineering", "tierberglihütte", "winter"]
 blogimport = true 
 [author]

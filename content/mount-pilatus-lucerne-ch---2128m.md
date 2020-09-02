@@ -2,6 +2,7 @@
 title = "Mount Pilatus (Lucerne, CH) - 2'128m"
 date = 2018-05-26T14:48:00Z
 updated = 2020-04-06T17:13:54Z
+type = "post"
 tags = ["lucerne", "switzerland", "swiss", "Hiking", "pilatus"]
 blogimport = true 
 [author]

@@ -2,6 +2,7 @@
 title = "Santanoni Range: "
 date = 2016-01-26T17:47:00Z
 updated = 2016-01-26T17:47:42Z
+type = "post"
 tags = ["Adirondacks", "46ers", "New York", "USA"]
 draft = true
 blogimport = true 
