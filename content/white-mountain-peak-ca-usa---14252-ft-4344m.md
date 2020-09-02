@@ -4,6 +4,7 @@ date = 2013-09-01T22:14:00Z
 stats2 = 123
 tags = ["4000er", "USA", "Hiking", "California"]
 title = "White Mountain Peak (CA, USA) - 14,252 ft (4,344m)"
+type = "post"
 updated = "2020-04-06T17:07:25.000+00:00"
 [author]
 name = "ann-lauriene"
