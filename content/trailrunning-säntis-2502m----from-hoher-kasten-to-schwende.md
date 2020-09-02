@@ -1,6 +1,7 @@
 +++
 blogimport = true
 date = 2018-08-12T13:09:00Z
+image = "/images/img_20180812_101911047.jpg"
 tags = ["switzerland", "säntis", "trailrunning", "summer"]
 title = "Trailrunning Säntis (2'502m) -  From Hoher Kasten to Schwende"
 type = "featured"
