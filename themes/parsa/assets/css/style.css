@@ -544,7 +544,7 @@ textarea.form-control {
 }
 
 .thumbnail img {
-  position: absolute;
+  position: relative;
   left: 50%;
   top: 50%;
   height: 100%;
