@@ -2,16 +2,17 @@
 
 <!-- page-title -->
 <section class="section_post">
-  <div class="d-flex flex-wrap justify-content-center">
+  <div class="container">
        <div class="card bg-white border-0 ">
           <img class="thumbnail" src="{{.Params.Image | absURL}}" alt="post-thumb">
-             <div class="card-img-overlay">
-             <h4 class="card-title text-center"><a class="text-white">   
-             {{.Title}}</a></h4>
+             <div class="card-img-overlay text-center">
+             <h4 class="card-title text-white">{{.Title}}</h4>
             </div>
         </div>
   </div>
 </section>
+
+
 <!-- /page-title -->
 
 <!-- blog single -->
@@ -24,8 +25,7 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <article class="content">
-          <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          Post byw {{.Params.stats2}}<br>
+          Post by {{.Params.stats2}}<br>
           Distance {{.Params.stats.distance}}<br>
           Elevation {{.Params.stats.elevation_gain}}<br>
           {{.Content}}
