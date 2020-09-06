@@ -21,7 +21,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Annlauriene"
+author = "Ann-Lauriene"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
