@@ -7,17 +7,17 @@ title = "RunHikeRepeat"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Sierra High Route"
-parent = "SHR"
-url = "categories/sierrahighroute"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Switzerland"
+name = "Hikiing"
+parent = "Test"
+url = "categories/hiking"
 weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
 weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
