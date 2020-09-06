@@ -545,9 +545,19 @@ textarea.form-control {
   height: 100%;
   width: 100%;
   left: 0;
-  top: 0;
+  top: 12rem !important;
 }
 
+
+.card-img-overlay-post {
+  position: absolute;
+  content: "";
+  background: transparent;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 12rem !important;
+}
 
 
 .card-content {
