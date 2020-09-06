@@ -527,6 +527,26 @@ textarea.form-control {
           transform: translateY(-50%);
 }
 
+.card-img_feature {
+  width:100%;
+  border-radius:calc(.25rem - 1px);
+  position: relative;
+  object-fit: cover;
+  object-position: center;
+  height: 500px;
+  overflow: hidden;
+}
+
+.card-img-overlay-feature {
+  position: absolute;
+  content:"";
+  background: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5));
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
 
   .card-img-top {
   position: relative;
@@ -556,7 +576,7 @@ textarea.form-control {
   height: 100%;
   width: 100%;
   left: 0;
-  top: 12rem !important;
+  top: 12.5rem;
 }
 
 
