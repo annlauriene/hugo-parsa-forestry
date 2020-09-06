@@ -570,6 +570,15 @@ textarea.form-control {
   left: 0;
 }
 
+.card-img-overlay-post::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
 .card-content {
   padding: 30px;
   position: absolute;
