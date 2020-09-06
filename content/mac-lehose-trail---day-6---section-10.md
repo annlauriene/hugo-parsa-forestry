@@ -1,5 +1,6 @@
 +++
 blogimport = true
+categories = ["Mac Le Horse"]
 date = 2016-11-14T18:00:00Z
 image = "/images/maclehorse6.jpg"
 tags = ["hong kong", "asia", "maclehose", "Hiking", "camping"]
