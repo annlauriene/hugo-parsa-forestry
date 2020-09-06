@@ -7,9 +7,9 @@ title = "RunHikeRepeat"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Hikiing"
+name = "Sierra High Route"
 parent = "Test"
-url = "categories/hiking"
+url = "categories/sierrahighroute"
 weight = 1
 [[menu.main]]
 URL = "about"
