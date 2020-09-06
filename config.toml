@@ -7,10 +7,29 @@ title = "RunHikeRepeat"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Food Plan"
+parent = "SHR 2016"
+url = "/food-plan-for-sierra-high-route/"
+weight = 2
+[[menu.main]]
+name = "Gear List"
+parent = "SHR 2016"
+url = "/gear-list-for-sierra-high-route/"
+weight = 3
+[[menu.main]]
 name = "Sierra High Route"
-parent = "Test"
-url = "categories/sierrahighroute"
+parent = "SHR 2016"
+url = "/the-sierra-high-route-shr-2016/"
 weight = 1
+[[menu.main]]
+name = "Daily Reports"
+parent = "SHR 2016"
+url = "/categories/sierra-high-route/"
+weight = 4
+[[menu.main]]
+URL = "sierrahighroute"
+name = "SHR 2016"
+weight = 4
 [[menu.main]]
 URL = "about"
 name = "About"
