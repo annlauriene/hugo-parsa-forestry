@@ -4,6 +4,8 @@ paginate = "20"
 summaryLength = "10"
 theme = "parsa"
 title = "RunHikeRepeat"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 name = "Hikiing"
 parent = "Test"
@@ -37,8 +39,8 @@ preloader = true
 search = true
 [params.instafeed]
 access_token = ""
-enable = false
-user_id = ""
+enable = true
+user_id = "ann_lauriene"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -70,5 +72,3 @@ link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://www.instagram.com/ann_lauriene/?hl=en"
 icon = "ti-instagram"
-[markup.goldmark.renderer] 
-unsafe= true
