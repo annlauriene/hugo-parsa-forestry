@@ -8,8 +8,8 @@ title = "RunHikeRepeat"
 unsafe = true
 [[menu.main]]
 name = "Hikiing"
-parent = "Test"
-url = "categories/hiking"
+parent = "SHR"
+url = "categories/sierrahighroute"
 weight = 1
 [[menu.main]]
 URL = "contact"
