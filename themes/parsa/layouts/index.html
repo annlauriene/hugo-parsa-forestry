@@ -22,14 +22,17 @@
               <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
 
             </div>
-          </div>
 
+          </div>
         </article>
       </div>
       {{ end }}
     </div>
   </div>
 </section>
+
+
+
 <!-- /featured post -->
 
 {{ else if (eq .Site.Params.layout "2")}}
@@ -83,6 +86,8 @@
       </div>
       {{ end }}
     </div>
+          {{partial "sidebar.html" . }}
+
 
     {{ else if (eq .Site.Params.layout "2")}}
 
@@ -108,6 +113,8 @@
       {{ end }}
     </div>
     {{ end }}
+
+
 
     <!-- pagination -->
     <div class="row">
