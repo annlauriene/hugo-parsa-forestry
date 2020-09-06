@@ -280,7 +280,8 @@ a.text-dark:hover {
 }
 
 .section_post {
- 
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .section-sm {
@@ -561,28 +562,19 @@ textarea.form-control {
 
 
 .card-img-overlay::before {
-  position: absolute;
+  position: relative;
   content: "";
-  background: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5));
+  background: transparent;
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
 }
 
-.card-img-overlay-post::before {
-  position: absolute;
-  content: "";
-  height: 100%;
-  background: transparent;
-  width: 100%;
-  top: 0;
-  left: 0;
-}
 
 .card-content {
   padding: 30px;
-  position: absolute;
+  position: relative;
   left: 0;
   right: 0;
   bottom: 30px;
