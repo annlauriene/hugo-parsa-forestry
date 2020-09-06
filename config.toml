@@ -21,7 +21,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Annlauriene"
+author = "Ann-Lauriene"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
@@ -68,14 +68,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "https://www.instagram.com/ann_lauriene/?hl=en"
+icon = "ti-instagram"
