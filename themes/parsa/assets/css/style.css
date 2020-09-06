@@ -574,6 +574,7 @@ textarea.form-control {
   position: absolute;
   content: "";
   height: 100%;
+  background: transparent;
   width: 100%;
   top: 0;
   left: 0;
