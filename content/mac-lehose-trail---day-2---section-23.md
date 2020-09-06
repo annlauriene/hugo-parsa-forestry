@@ -1,5 +1,6 @@
 +++
 blogimport = true
+categories = ["Mac Lehose Trail"]
 date = 2016-11-14T18:20:00Z
 image = "/images/maclehorse2.jpg"
 tags = ["hong kong", "asia", "maclehose", "Hiking", "camping"]
