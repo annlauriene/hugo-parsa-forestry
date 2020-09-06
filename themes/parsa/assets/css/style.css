@@ -20,8 +20,8 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
-  color: #585757;
+  font-size: 20px;
+  color: #000000;
 }
 
 p, .paragraph {
@@ -76,7 +76,7 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-size: 15px;
+  font-size: 17px;
   font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
   padding: 8px 20px;
@@ -267,7 +267,7 @@ a:hover {
   color: #ff6f00;
 }
 a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #FF48A5 !important;
 }
 
 .slick-slide {
@@ -545,6 +545,17 @@ textarea.form-control {
   width: 100%;
   left: 0;
   top: 0;
+}
+
+
+.img-fluid-list {
+  position: relative;
+  object-position: center; /* Center the image within the element */ 
+  object-fit: cover; 
+  width: 100%;
+  max-height: 350px;
+  min-height: 250px;
+  overflow: hidden;
 }
 
 
