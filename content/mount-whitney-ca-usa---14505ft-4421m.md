@@ -4,7 +4,7 @@ date = 2013-09-06T05:00:00Z
 image = "/images/whitney.JPG"
 tags = ["Mount Whitney", "4000er", "USA", "Hiking", "California"]
 title = "Mount Whitney (CA, USA) - 14,505ft (4,421m)"
-type = "post"
+type = "featured"
 updated = "2020-04-06T17:07:49.000+00:00"
 [author]
 name = "ann-lauriene"
