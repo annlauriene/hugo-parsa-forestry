@@ -1,21 +1,17 @@
 <div class="col-lg-4">
 
-  <div class="widget search-box">
-    <form action="{{ .Site.BaseURL }}/search">
-      <i class="ti-search"></i>
-      <input class="form-control border-0 pl-5" type="search" placeholder="Search" id="search-query" name="s">
-    </form>
-  </div>
 
   <div class="widget">
-    <h4 class="widget-title"> About Me</h4>
-    <img src="https://themes.gohugo.io/theme/parsa/images/author.jpg" alt class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
+    <h5 class="widget-title"> ABOUT ME</h5>
+    <img src="/author.jpg" alt class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
     <p> "Lorem ipsum" </p>
     <a href="http://localhost:1313/about/" class="btn btn-outline-primary">Know More</a>
  
   </div>
   
-  <div class="widget">
+
+<!-- /comment out   
+<div class="widget">
     <h6 class="mb-4">LATEST POST</h6>
     {{ range first 3 ( where .Site.Pages "Type" "post") }}
     <div class="media mb-4">
@@ -32,6 +28,21 @@
     </div>
     {{ end }}
   </div>
+
+   -->
+
+
+     <!-- social -->
+  <div class="widget">
+    <h6 class="widget-title">SOCIAL</h6>
+    <ul class="list-inline social-links">
+      {{ range .Site.Params.social }}
+      <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+      {{ end }}
+    </ul>
+  </div>
+
+
   <div class="widget">
     <h6 class="mb-4">CATEGORIES</h6>
     {{- if isset .Site.Taxonomies "categories" }}

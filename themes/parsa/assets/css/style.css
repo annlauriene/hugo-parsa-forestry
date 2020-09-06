@@ -20,13 +20,13 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 20px;
+  font-size: 15px;
   color: #000000;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
 }
@@ -76,7 +76,7 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-size: 17px;
+  font-size: 15px;
   font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
   padding: 8px 20px;
@@ -533,7 +533,7 @@ textarea.form-control {
   position: relative;
   object-fit: cover;
   object-position: center;
-  height: 500px;
+  height: 450px;
   overflow: hidden;
 }
 
@@ -553,8 +553,7 @@ textarea.form-control {
   object-position: center; /* Center the image within the element */ 
   object-fit: cover; 
   width: 100%;
-  max-height: 350px;
-  min-height: 250px;
+  height: 225px;
   overflow: hidden;
 }
 

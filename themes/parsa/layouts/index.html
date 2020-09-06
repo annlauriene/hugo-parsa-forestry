@@ -7,22 +7,14 @@
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "featured")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-
         <article class="card bg-dark text-center text-white border-0 rounded-0">
-
           <img class="card-img_feature rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
-
-
-
           <div class="card-img-overlay-feature">
             <div class="card-content">
-
               <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
                <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
               <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
-
             </div>
-
           </div>
         </article>
       </div>
@@ -30,7 +22,6 @@
     </div>
   </div>
 </section>
-
 
 
 <!-- /featured post -->
@@ -68,14 +59,20 @@
 </section>
 {{ end }}
 
+
+
+
+
 <!-- blog post -->
 <section class="section">
   <div class="container">
+     <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <div class="row">
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
     {{ if eq .Site.Params.layout "1" }}
-    <div class="row masonry-container">
       {{ range $paginator.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-md-6 mb-4">
         <article class="text-center">
           <a href="{{ .Permalink }}"><img class="img-fluid-list mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb"></a>
           <p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
@@ -83,10 +80,16 @@
           <p>{{.Summary}}</p>
           <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
         </article>
+
       </div>
-      {{ end }}
-    </div>
-          {{partial "sidebar.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    
+
+
+
+      
 
 
     {{ else if (eq .Site.Params.layout "2")}}
@@ -114,11 +117,14 @@
     </div>
     {{ end }}
 
-
+       <!-- sidebar -->
+      {{ partial "sidebar.html" . }}
+      <!-- /sidebar -->
 
     <!-- pagination -->
-    <div class="row">
+    
       <div class="col-12">
+
         {{ $paginator := .Paginator }}
         <!-- Number of links either side of the current page. -->
         {{ $adjacent_links := 2 }}
