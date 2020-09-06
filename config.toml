@@ -70,3 +70,5 @@ link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://www.instagram.com/ann_lauriene/?hl=en"
 icon = "ti-instagram"
+[markup.goldmark.renderer] 
+unsafe= true
