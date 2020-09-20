@@ -22,6 +22,8 @@ On August 23rd, we took a train to Randa in the south of Switzerland. It's very 
 
 At 10:15am we started our hike from Randa towards the hut. The trail runs along a white-red-white hiking trail and after a couple of hours you get the first glimpse of Weisshorn standing promimently in the distance. After about 4 hrs we arrived at the hut and had the chance to enjoy the view and surrondings of the hut. The hut is very small but this makes it very cozy. Dinner was very tasty and by 9:30pm we were already sleeping upstairs.
 
+![](/images/mvimg_20190824_142020.jpg)
+![](/images/img_20190824_194336.jpg)
 ![](/images/img_5579.jpg "At the start of day 2")
 
 For us, breakfast was served at 6am and by 7am we were on our way to the glacier and the summit of Wisse Schijen. About 45min in we reached the base of the Schaliglacier, attached ourselves onto the rope and hiked towards the pass at 3'282m. By 8am we reached the pass and from there you climb along the ridge to the summit. There was no snow or ice on the ridge, but the rock was very brital and loose. We had to take care so they don't tumble down. We were a group of around 10 people and we were making sure to always be secured with the rope at all down climbing the ridge. It took us about 1:30hrs for everyone to reach the summit. The last section of the climb was along a steep ridge and it was super cool once we all made it to the tiny summit at 3'281m.
@@ -30,25 +32,18 @@ The view from the top was amazing. In the distance we could see the Matterhorn a
 
 We had to wait another hour for our next train back to Zürich so we enjoyed a cold Apfelschorle in the valley. The train was really full as a lot of tourist came back from a visit to Zermatt.
 
-![](/images/img_20190825_075732.jpg)
-![](/images/img_20190824_194336.jpg)
-![](/images/img_20190825_093304.jpg) 
-![](/images/img_20190825_084712.jpg)
-![](/images/img_20190825_081829.jpg)
-![](/images/mvimg_20190825_082545.jpg)
-![](/images/mvimg_20190825_075709.jpg)
 ![](/images/mvimg_20190824_121100.jpg)
-![](/images/img_20190825_082906.jpg)
+![](/images/img_5571.jpg)
+![](/images/img_20190824_130021.jpg)
 ![](/images/img_20190824_162707.jpg)
 ![](/images/img_20190825_070122.jpg)
-![](/images/img_20190825_072232.jpg)
 ![](/images/img_20190825_075704.jpg)
-![](/images/img_20190824_130021.jpg)
-![](/images/img_20190825_093929.jpg)
-![](/images/00100lportrait_00100_burst20190825093427205_cover.jpg)
-![](/images/mvimg_20190824_142020.jpg)
+![](/images/mvimg_20190825_075709.jpg)
+![](/images/mvimg_20190825_082545.jpg)
+![](/images/img_20190825_075732.jpg)
 ![](/images/mvimg_20190825_082548.jpg)
-![](/images/img_5571.jpg)
-![](/images/img_20190825_081832.jpg)
+![](/images/img_20190825_084712.jpg)
+![](/images/img_20190825_093304.jpg)
 ![](/images/img_5591.jpg)
 ![](/images/img_5607.jpg)
+![](/images/img_20190825_093929.jpg)
