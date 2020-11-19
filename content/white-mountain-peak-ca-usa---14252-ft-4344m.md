@@ -2,6 +2,7 @@
 blogimport = true
 date = 2013-09-01T22:14:00Z
 image = "/images/white_mountain.jpg"
+images = ["/images/mvimg_20190825_082545.jpg", "/images/mvimg_20190825_075709.jpg", "/images/mvimg_20190824_121100.jpg"]
 tags = ["4000er", "USA", "Hiking", "California"]
 title = "White Mountain Peak (CA, USA) - 14,252 ft (4,344m)"
 type = "post"
