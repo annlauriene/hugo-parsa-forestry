@@ -75,7 +75,8 @@ fields:
 - name: image_gallery
   type: blocks
   label: Image Gallery
-  template_types: []
+  template_types:
+  - image-gallery
   config:
     min: 
     max: 
