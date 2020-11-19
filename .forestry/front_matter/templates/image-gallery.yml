@@ -1,4 +1,12 @@
 ---
 label: Image Gallery
 hide_body: true
-fields: []
+fields:
+- name: image_gallery
+  type: blocks
+  label: Image Gallery
+  template_types:
+  - image-gallery
+  config:
+    min: 
+    max: 
