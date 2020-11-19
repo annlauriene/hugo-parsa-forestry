@@ -72,3 +72,10 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: image_gallery
+  type: blocks
+  label: Image Gallery
+  template_types: []
+  config:
+    min: 
+    max: 
