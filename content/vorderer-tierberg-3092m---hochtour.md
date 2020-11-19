@@ -2,7 +2,7 @@
 blogimport = true
 date = 2018-07-08T13:25:00Z
 image = "/images/img_20180701_080227258.jpg"
-images = ["/images/mvimg_20190825_082545.jpg", "/images/mvimg_20190825_075709.jpg", "/images/mvimg_20190824_121100.jpg"]
+images = []
 tags = ["tierberg", "switzerland", "hochtour", "mountaineering", "tierberglihütte", "winter"]
 title = "Vorderer Tierberg (3'092m) - Hochtour"
 type = "post"
