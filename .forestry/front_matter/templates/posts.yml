@@ -39,7 +39,7 @@ fields:
   - type: text
     name: uri
     label: uri
-- type: field_group_list
+- type: field_group
   name: resources
   label: resources
   fields:
