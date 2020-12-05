@@ -12,8 +12,8 @@ sections:
 - type: directory
   path: content
   label: Post
-  create: documents
-  match: "*"
+  create: all
+  match: "**/*"
   templates:
   - post
 - type: directory
