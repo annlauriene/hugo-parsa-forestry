@@ -12,11 +12,11 @@ updated = "2020-04-06T17:07:25.000+00:00"
 name = "ann-lauriene"
 uri = ""
 [[resources]]
-  src= "images/masonary-post/*.jpg"
+  src= "images/zeno/*.jpg"
   name= "post-:counter"
   title= "post-title-:counter"
 +++
 
 
 Hallo This is miy blog position
-{{< gallery folder="gallery" title="masonary-post" >}}
+{{< gallery folder="gallery" title="zeno" >}}
