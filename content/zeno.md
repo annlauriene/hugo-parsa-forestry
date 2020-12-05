@@ -13,8 +13,8 @@ name = "ann-lauriene"
 uri = ""
 [[resources]]
   src= "images/masonary-post/*.jpg"
-  name= "gallery-:counter"
-  title= "gallery-title-:counter"
+  name= "post-:counter"
+  title= "post-title-:counter"
 +++
 
 
