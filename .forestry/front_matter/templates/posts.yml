@@ -63,4 +63,5 @@ fields:
   hidden: true
 pages:
 - content/zeno/AnnBest/index.md
+- content/zeno/Test/index.md.md
 - content/zeno/annbest.md
