@@ -13,8 +13,8 @@ name = "ann-lauriene"
 uri = ""
 [[resources]]
   src= "images/*.jpg"
-  name= gallery-:counter
-  title= gallery-title-:counter
+  name= "gallery-:counter"
+  title= "gallery-title-:counter"
 +++
 
 
