@@ -19,4 +19,11 @@ title = "gallery-title-:counter"
 +++
 Hallo This is miy blog position
 Now from pany
-{{< gallery folder="gallery" title="Ann-Lauriene" >}}
+
+HHAllosd
+
+sdasdasd
+
+asd
+
+asd {{< gallery folder="gallery" title="Ann-Lauriene" >}}
