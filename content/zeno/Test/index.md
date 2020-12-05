@@ -6,7 +6,7 @@ image_gallery = []
 images = []
 tags = []
 title = "hallo"
-type = ""
+type = "post"
 updated = ""
 [author]
 name = ""
