@@ -5,13 +5,21 @@ image = "/images/white_mountain.jpg"
 image_gallery = []
 images = []
 tags = ["Zenotag"]
-title = "Zeno"
+title = "Pany"
 type = "post"
-updated = 2020-04-06T17:07:25Z
+updated = 2020-04-07T17:07:25Z
 [author]
 name = "ann-lauriene"
 uri = ""
 
 +++
 Hallo This is miy blog position
-{{< gallery folder="gallery" title="Ann-Lauriene" >}}
+Now from pany
+
+HHAllosd
+
+sdasdasd
+
+asd
+
+asd {{< gallery folder="gallery" title="Ann-Lauriene" >}}
