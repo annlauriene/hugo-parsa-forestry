@@ -11,8 +11,8 @@ updated = "2020-04-06T17:07:25.000+00:00"
 [author]
 name = "ann-lauriene"
 uri = ""
-resources:
-- src: "gallery/*.jpg"
+[[resources]]
+  src: "images/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 +++
