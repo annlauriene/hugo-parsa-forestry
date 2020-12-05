@@ -18,3 +18,5 @@ title = "gallery-title-:counter"
 
 +++
 HAllo
+
+{{< gallery folder="gallery" title="Ann-Lauriene" >}}
