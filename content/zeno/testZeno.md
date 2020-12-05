@@ -19,4 +19,4 @@ uri = ""
 
 
 Hallo This is miy blog position
-{{< gallery folder="gallery" title="zeno" >}}
+{{< gallery folder="gallery" title="Ann-Lauriene" >}}
