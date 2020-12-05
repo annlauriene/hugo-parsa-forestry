@@ -68,10 +68,25 @@ fields:
     required: false
   label: map
   description: map link
-- name: test
-  type: text
-  config:
-    required: false
-  label: test
+- name: resources
+  type: field_group
+  config: {}
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
+  - name: src
+    type: include
+    config: {}
+    template: post
+    label: src
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  label: resources
 pages:
 - content/zeno/Ann-Lauriene/hallo.md
