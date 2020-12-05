@@ -11,10 +11,6 @@ updated = 2020-04-06T17:07:25Z
 [author]
 name = "ann-lauriene"
 uri = ""
-[[resources]]
-name = "gallery-:counter"
-src = "gallery/*.jpg"
-title = "gallery-title-:counter"
 
 +++
 Hallo This is miy blog position
