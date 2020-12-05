@@ -7,17 +7,16 @@ images = []
 tags = ["Zenotag"]
 title = "Pany"
 type = "post"
-updated = "2020-04-06T17:07:25.000+00:00"
+updated = 2020-04-07T17:07:25Z
 [author]
 name = "ann-lauriene"
 uri = ""
 [[resources]]
-  src= "gallery/*.jpg"
-  name= "gallery-:counter"
-  title= "gallery-title-:counter"
+name = "gallery-:counter"
+src = "gallery/*.jpg"
+title = "gallery-title-:counter"
+
 +++
-
-
 Hallo This is miy blog position
 Now from pany
 {{< gallery folder="gallery" title="Ann-Lauriene" >}}
