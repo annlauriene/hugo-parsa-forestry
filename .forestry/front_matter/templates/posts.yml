@@ -47,16 +47,19 @@ fields:
     name: name
     label: name
     default: gallery-:counter
+    hidden: true
   - type: text
     name: title
     label: title
     default: gallery-title-:counter
+    hidden: true
   - name: src
     type: text
     config:
       required: false
     label: src
     default: gallery/*.jpg
+    hidden: true
   hidden: true
 pages:
 - content/zeno/AnnBest/index.md
