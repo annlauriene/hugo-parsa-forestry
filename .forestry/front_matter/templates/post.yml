@@ -68,9 +68,5 @@ fields:
     required: false
   label: map
   description: map link
-- name: images
-  type: image_gallery
-  config: {}
-  label: Images
 pages:
 - content/zeno/Ann-Lauriene/hallo.md
