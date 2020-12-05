@@ -1,7 +1,6 @@
 +++
 blogimport = false
 date = ""
-draft = true
 image = ""
 image_gallery = []
 images = []
