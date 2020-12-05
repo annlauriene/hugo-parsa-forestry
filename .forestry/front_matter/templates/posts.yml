@@ -58,5 +58,3 @@ fields:
     label: src
     default: gallery/*.jpg
   hidden: true
-pages:
-- content/zeno/Ann-Lauriene/index.md
