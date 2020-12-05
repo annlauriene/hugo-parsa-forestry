@@ -1,0 +1,36 @@
+{{ if .Params.image_gallery }}
+{{ range .Params.image_gallery }}
+
+{{ $alttext := .gallery_image_alt_text }}
+
+{{ with .gallery_image }}
+{{ $imageResource := ($.Site.GetPage "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+
+{{ $resizedsm := $imageResource.Resize "640x" }}
+{{ $resizedmd := $imageResource.Resize "768x" }}
+{{ $resizedlg := $imageResource.Resize "1024x" }}
+{{ $resizedxl := $imageResource.Resize "2048x" }}
+
+<picture>
+  <source media="(min-width: 1280px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+    {{ $resizedxl.RelPermalink }} 2x,
+    {{ $resizedxl.RelPermalink }} 3x">
+
+  <source media="(min-width: 1024px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+    {{ $resizedxl.RelPermalink }} 2x,
+    {{ $resizedxl.RelPermalink }} 3x">
+
+  <source media="(min-width: 768px)" srcset="{{ $resizedmd.RelPermalink }} 1x,
+    {{ $resizedlg.RelPermalink }} 2x,
+    {{ $resizedxl.RelPermalink }} 3x">
+
+  <source media="(min-width: 640px)" srcset="{{ $resizedsm.RelPermalink }} 1x,
+    {{ $resizedmd.RelPermalink }} 2x,
+    {{ $resizedlg.RelPermalink }} 3x">
+
+  <img alt="{{ $alttext }}" src="{{ $resizedmd.RelPermalink }}" />
+</picture>
+
+{{ end }}
+{{ end }}
+{{ end }}
