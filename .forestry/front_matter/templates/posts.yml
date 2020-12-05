@@ -46,11 +46,17 @@ fields:
   - type: text
     name: name
     label: name
-  - type: file
-    name: src
-    label: src
+    default: gallery-:counter
   - type: text
     name: title
     label: title
+    default: gallery-title-:counter
+  - name: src
+    type: text
+    config:
+      required: false
+    label: src
+    default: gallery/*.jpg
+  hidden: true
 pages:
 - content/zeno/Ann-Lauriene/index.md
