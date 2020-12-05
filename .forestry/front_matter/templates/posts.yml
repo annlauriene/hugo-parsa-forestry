@@ -59,4 +59,5 @@ fields:
     default: gallery/*.jpg
   hidden: true
 pages:
+- content/zeno/AnnBest/index.md
 - content/zeno/annbest.md
