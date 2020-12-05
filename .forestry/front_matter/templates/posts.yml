@@ -52,3 +52,5 @@ fields:
   - type: text
     name: title
     label: title
+pages:
+- content/zeno/Ann-Lauriene/index.md
